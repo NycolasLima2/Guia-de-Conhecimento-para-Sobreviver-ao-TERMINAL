@@ -24,4 +24,4 @@ Abaixo estara comandos para serem utilizados na CLI e do Windowns.
 | `systeminfo e uname -a` | `informações do sitema são apresentada` | Windows e Linux (respectivamente) | systeminfo ou uname -a -> apresenta as informações do sistema/ pc|
 | `netsh e ip` | `Apresenta as confgurações da rede` | Windows e Linux (respectivamente)| netsh e ip -> exibi as configurações da rede|
 | `tasklist e top` | exibi os processos que ocorrem no gerenciador de tarefas | Windows e Linux (respectivamente) | tasklist e top: Lista tudo o que está rodando |
-| `getmac e ip link` | `identificar o endereço físico da sua placa de rede` | getmac /v: Mostra o endereço detalhado; ip link show: Lista todas as interfaces e seus MACs |
+| `getmac e ip link` | `identificar o endereço físico da sua placa de rede` | Windows e Linux (respectivamente) |getmac /v: Mostra o endereço detalhado; ip link show: Lista todas as interfaces e seus MACs |
